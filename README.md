@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Andrew-J-Martin
+- 👀 I’m interested in C#, Javascript & Vue.js
+- 🌱 I’m currently learning Vue.hs
+- 💞️ I’m looking to collaborate on Requirement Engieering
+- 📫 How to reach me.
